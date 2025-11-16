@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vspcoder and I'm a Web Devloper In React From India</h2>
+<h2 align="left">Hi 👋! My name is Vspcoderz | Full Stack Developer | AI/ML Enthusiastic</h2>
 
 ###
 
